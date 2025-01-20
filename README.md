@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sergiosilva815
+- 👋 Hi, I’m sergio da silva pereira
 - 👀 I’m interested in front and e back and.
 - 🌱 I’m currently learning .javascript..
 - 💞️ I’m looking to collaborate on .the javascript language..
